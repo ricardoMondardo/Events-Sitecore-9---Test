@@ -1,0 +1,38 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="http://tac.corporate/" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\TAC\Events\Layouts\Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{7F5A028C-3430-47D7-8903-5507C711D181}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/Layouts/Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{7F5A028C-3430-47D7-8903-5507C711D181}</Item>
+  </File>
+  <File Include="Views\TAC\Events\SideContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{C5B895C7-7C54-40E3-B22C-04DB2CF3D617}</Item>
+  </File>
+  <File Include="Views\TAC\Events\PageContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{6C37B875-8773-445F-8476-02A7AD4C9F33}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Two-Column.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{262CEB72-1FE8-403B-91A0-7346471FCBA6}</Item>
+  </File>
+  <File Include="Views\TAC\Events\One-Column.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{DFB98871-2521-4B61-BC2E-FE9152B3D403}</Item>
+  </File>
+  <File Include="Views\TAC\Events\HomeContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{70F563EB-A7DD-446B-9321-0417092F12CD}</Item>
+  </File>
+  <File Include="Views\TAC\Events\FeatureRow.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{48D02FE5-86B1-4916-AA8D-19C46A3AE342}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/FeatureRow.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{48D02FE5-86B1-4916-AA8D-19C46A3AE342}</Item>
+  </File>
+  <File Include="Views\TAC\Events\FeaturedEvent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{23BF77DA-9EF2-4B0C-A17A-C60D40151A2E}</Item>
+  </File>
+  <File Include="/Views/TAC/Events/FeaturedEvent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{23BF77DA-9EF2-4B0C-A17A-C60D40151A2E}</Item>
+  </File>
+</Project>
